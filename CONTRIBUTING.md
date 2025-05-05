@@ -5,7 +5,7 @@ Abaixo você pode encontrar as diretrizes para poder fazer sua contribuição co
 ## Issues
 
 
-### Criaçaõ de Issues
+### Criação de Issues
 
 - Título: um resumo do problema ou sugestão que está sendo criado.
 - Descrição: incluindo passos para reprodução, contexto detalhado, comportamento esperado e comportamento atual observado. Sempre que possível, adicione capturas de tela, logs ou trechos de código que ajudem a ilustrar o problema.
