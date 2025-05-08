@@ -9,5 +9,6 @@
     - [2.4. Participações na Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras](/Modelagem/2.5.IniciativasExtras.md)
 
-  - [3. Atas de Reunião]()
-    - [Ata Reunião 01/05/2025](/Modelagem/Reunioes/ata01.md)
+  - [Atas de Reunião]()
+    - [Ata Reunião 29/04/2025](/atas/ata01.md)
+    - [Ata Reunião 01/05/2025](/atas/ata02.md)
