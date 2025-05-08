@@ -12,3 +12,6 @@
   - [Atas de Reunião]()
     - [Ata Reunião 29/04/2025](/atas/ata01.md)
     - [Ata Reunião 01/05/2025](/atas/ata02.md)
+    - [Ata Reunião 02/05/2025](/Modelagem/Reunioes/ataClasses.md)
+    - [07/05/2025 (pacotes)](/Modelagem/Reunioes/ataPacotes.md)
+
