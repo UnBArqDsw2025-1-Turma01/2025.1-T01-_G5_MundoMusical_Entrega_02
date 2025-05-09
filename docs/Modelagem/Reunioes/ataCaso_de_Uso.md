@@ -29,8 +29,10 @@
 
 ---
 
-## Histórico de Versão
 
-| Versão | Data       | Data de Revisão | Descrição                                                            | Autor(es)                                 | Revisor(es) | Detalhes da revisão |
-|--------|------------|-----------------|----------------------------------------------------------------------|----------------------------------- -------|-------------|---------------------|
-| `1.0`  | 08/05/2025 |        -        | Criação do documento a partir dos modelos usados na primeira entrega | [Amanda Abreu](https://github.com/Amandaaaaabreu) | - | - |
+## Histórico de versão
+| Versão | Data       | Data de Revisão | Descrição            | Autor(es)                                           | Revisor(es) | Detalhes da revisão |
+|--------|------------|-----------------|----------------------|-----------------------------------------------------|-------------|---------------------|
+| `1.0`  | 08/05/2025 |  | Criação do documento a partir dos modelos usados na primeira entrega|  [Amanda Abreu](https://github.com/Amandaaaaabreu)  | |  |
+
+
