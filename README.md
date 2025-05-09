@@ -1,31 +1,102 @@
-# RepositorioTemplate
+# Mundo Musical
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+**Código da Disciplina**: FGA0208<br>
+**Número do Grupo**: 05<br>
+**Entrega**: 02<br>
 
-## Introdução
+<center>
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+## Alunos
+<center>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Amandaaaaabreu">
+        <img style="border-radius: 50%;" src="https://github.com/Amandaaaaabreu.png" width="150px;" alt="Foto Amanda"/><br />
+        <sub><b>Amanda Abreu <br></b></sub>
+        <sub><b>Matrícula: 211030925</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arthur-heleno">
+        <img style="border-radius: 50%;" src="https://github.com/arthur-heleno.png" width="150px;" alt="Foto Arthur Heleno"/><br />
+        <sub><b>Arthur Heleno<br></b></sub>
+        <sub><b>Matrícula: 180116746</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arthurrsousa">
+        <img style="border-radius: 50%;" src="https://github.com/arthurrsousa.png" width="150px;" alt="Foto Arthur Sousa"/><br />
+        <sub><b>Arthur Sousa<br></b></sub>
+        <sub><b>Matrícula: 211030291</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sidts">
+        <img style="border-radius: 50%;" src="https://github.com/sidts.png" width="150px;" alt="Foto Enrico"/><br />
+        <sub><b>Enrico Zoratto<br></b></sub>
+        <sub><b>Matrícula: 222006688</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esthersousa">
+        <img style="border-radius: 50%;" src="https://github.com/esthersousa.png" width="150px;" alt="Foto Esther"/><br />
+        <sub><b>Esther Sousa<br></b></sub>
+        <sub><b>Matrícula: 190106034</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Laisczt">
+        <img style="border-radius: 50%;" src="https://github.com/Laisczt.png" width="150px;" alt="Foto Laís"/><br />
+        <sub><b>Laís Soares<br></b></sub>
+        <sub><b>Matrícula: 211029512</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucascaldasb">
+        <img style="border-radius: 50%;" src="https://github.com/lucascaldasb.png" width="150px;" alt="Foto Lucas"/><br />
+        <sub><b>Lucas Caldas<br></b></sub>
+        <sub><b>Matrícula: 190091606</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucasdray">
+        <img style="border-radius: 50%;" src="https://github.com/lucasdray.png" width="150px;" alt="Foto Pedro Lucas Dourado"/><br />
+        <sub><b>Pedro Lucas Dourado<br></b></sub>
+        <sub><b>Matrícula: 211039680</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pedrolucas12">
+        <img style="border-radius: 50%;" src="https://github.com/pedrolucas12.png" width="150px;" alt="Foto Pedro Lucas Santana"/><br />
+        <sub><b>Pedro Lucas Santana<br></b></sub>
+        <sub><b>Matrícula: 202017049</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sebazac332">
+        <img style="border-radius: 50%;" src="https://github.com/sebazac332.png" width="150px;" alt="Foto Sebastián"/><br />
+        <sub><b>Sebastián Rosado<br></b></sub>
+        <sub><b>Matrícula: 211006957</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</center>
+</center>
 
-## Tecnologia
+## Sobre 
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+O Mundo Musical é uma plataforma de aprendizado de teoria musical de forma gamificada, com o objetivo de fornecer uma maneira símples e engajante para usuários iniciantes aprenderem os básicos, e usuários mais avançados praticarem onde quer que estejam.
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+Utilizando jogos símples e quizes, além de gráficos amigáveis, o aprendizado pelo Mundo Musical é mais divertido e menos intimidador do que formas tradicionais de aprender música. Sistemas de recompensa por prática diária e um elemento competitivo opcional incentivam o uso regular da plataforma para um melhor aprendizado.
 
-### Instalando o docsify
+## Há algo a ser executado?
 
-Execute o comando:
+( ) SIM
 
-```shell
-npm i docsify-cli -g
-```
+(X) NÃO
 
-### Executando localmente
 
-Para iniciar o site localmente, utilize o comando:
-
-```shell
-docsify serve ./docs
-```
