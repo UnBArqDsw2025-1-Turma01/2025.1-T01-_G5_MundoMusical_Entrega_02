@@ -7,20 +7,84 @@
 <center>
 
 ## Alunos
-
-|Foto| Nome |
-|--|--|
-|<img src= "docs/img/amanda.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Amanda Abreu](https://github.com/Amandaaaaabreu)
-|<img src= "docs/img/arthurh.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Arthur Heleno](https://github.com/arthur-heleno)
-|<img src= "docs/img/arthurs.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Arthur Sousa](https://github.com/arthurrsousa)
-|<img src= "docs/img/enrico.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Enrico Zoratto](https://github.com/sidts)
-|<img src= "docs/img/esther.png" width="150" height="150" style="border-radius: 75px"/>|[Esther Sousa](https://github.com/esthersousa)
-|<img src= "docs/img/lais.png" width="150" height="150" style="border-radius: 75px"/>|[Laís Soares](https://github.com/Laisczt)
-|<img src= "docs/img/lucas.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Lucas Caldas](https://github.com/lucascaldasb)
-|<img src= "docs/img/pedrold.png" width="150" height="150" style="border-radius: 75px"/>|[Pedro Lucas Dourado](https://github.com/lucasdray)
-|<img src= "docs/img/pedrols.jpeg" width="150" height="150" style="border-radius: 75px"/>|[Pedro Lucas Santana](https://github.com/pedrolucas12)
-|<img src= "docs/img/sebastian.png" width="150" height="150" style="border-radius: 75px"/>|[Sebastián Rosado](https://github.com/sebazac332)
-
+<center>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Amandaaaaabreu">
+        <img style="border-radius: 50%;" src="https://github.com/Amandaaaaabreu.png" width="150px;" alt="Foto Amanda"/><br />
+        <sub><b>Amanda Abreu <br></b></sub>
+        <sub><b>Matrícula: 211030925</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arthur-heleno">
+        <img style="border-radius: 50%;" src="https://github.com/arthur-heleno.png" width="150px;" alt="Foto Arthur Heleno"/><br />
+        <sub><b>Arthur Heleno<br></b></sub>
+        <sub><b>Matrícula: 180116746</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arthurrsousa">
+        <img style="border-radius: 50%;" src="https://github.com/arthurrsousa.png" width="150px;" alt="Foto Arthur Sousa"/><br />
+        <sub><b>Arthur Sousa<br></b></sub>
+        <sub><b>Matrícula: 211030291</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sidts">
+        <img style="border-radius: 50%;" src="https://github.com/sidts.png" width="150px;" alt="Foto Enrico"/><br />
+        <sub><b>Enrico Zoratto<br></b></sub>
+        <sub><b>Matrícula: 222006688</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esthersousa">
+        <img style="border-radius: 50%;" src="https://github.com/esthersousa.png" width="150px;" alt="Foto Esther"/><br />
+        <sub><b>Esther Sousa<br></b></sub>
+        <sub><b>Matrícula: 190106034</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Laisczt">
+        <img style="border-radius: 50%;" src="https://github.com/Laisczt.png" width="150px;" alt="Foto Laís"/><br />
+        <sub><b>Laís Soares<br></b></sub>
+        <sub><b>Matrícula: 211029512</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucascaldasb">
+        <img style="border-radius: 50%;" src="https://github.com/lucascaldasb.png" width="150px;" alt="Foto Lucas"/><br />
+        <sub><b>Lucas Caldas<br></b></sub>
+        <sub><b>Matrícula: 190091606</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucasdray">
+        <img style="border-radius: 50%;" src="https://github.com/lucasdray.png" width="150px;" alt="Foto Pedro Lucas Dourado"/><br />
+        <sub><b>Pedro Lucas Dourado<br></b></sub>
+        <sub><b>Matrícula: 211039680</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pedrolucas12">
+        <img style="border-radius: 50%;" src="https://github.com/pedrolucas12.png" width="150px;" alt="Foto Pedro Lucas Santana"/><br />
+        <sub><b>Pedro Lucas Santana<br></b></sub>
+        <sub><b>Matrícula: 202017049</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sebazac332">
+        <img style="border-radius: 50%;" src="https://github.com/sebazac332.png" width="150px;" alt="Foto Sebastián"/><br />
+        <sub><b>Sebastián Rosado<br></b></sub>
+        <sub><b>Matrícula: 211006957</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</center>
 </center>
 
 ## Sobre 
