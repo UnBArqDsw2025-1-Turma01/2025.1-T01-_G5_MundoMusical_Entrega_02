@@ -51,7 +51,7 @@ Foi feita a criação de Sub-Grupos e a definição de cada diagrama que cada gr
 
 ## Histórico de Versão
 
-| Versão | Data       | Data de Revisão | Descrição                                                            | Autor(es)                                 | Revisor(es) | Detalhes da revisão |
-|--------|------------|-----------------|----------------------------------------------------------------------|----------------------------------- -------|-------------|---------------------|
-| `1.0`  | 02/05/2025 |        -        | Documento criado | [Laís Soares](https://github.com/lucasdray) | - | - |
-| `1.1`  | 09/05/2025 |        -        | Formatação no template usado por outras atas | [Laís Soares](https://github.com/Laisczt) | - | - |
+| Versão | Data       | Data de Revisão | Descrição                                    | Autor(es)                                   | Revisor(es) | Detalhes da revisão |
+| ------ | ---------- | --------------- | -------------------------------------------- | ------------------------------------------- | ----------- | ------------------- |
+| `1.0`  | 02/05/2025 | -               | Documento criado                             | [Pedro Lucas](https://github.com/lucasdray) | -           | -                   |
+| `1.1`  | 09/05/2025 | -               | Formatação no template usado por outras atas | [Laís Soares](https://github.com/Laisczt)   | -           | -                   |
